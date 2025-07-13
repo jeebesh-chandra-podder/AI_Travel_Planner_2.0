@@ -1,0 +1,64 @@
+2025-07-14 00:37:39,207 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:37:39,208 - INFO - City Set Successfully
+2025-07-14 00:37:39,208 - INFO - Interests Set Successfully
+2025-07-14 00:37:39,208 - INFO - Generating Itinerary for Delhi and for interests : ['Red Fort', 'Lotus Temple']
+2025-07-14 00:37:39,503 - ERROR - Error While Generating ******ITINERARY***** : Completions.create() got an unexpected keyword argument 'GROQ_API_KEY'
+2025-07-14 00:37:40,555 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:37:40,555 - INFO - City Set Successfully
+2025-07-14 00:37:40,555 - INFO - Interests Set Successfully
+2025-07-14 00:37:40,555 - INFO - Generating Itinerary for Delhi and for interests : ['Red Fort', 'Lotus Temple']
+2025-07-14 00:37:40,556 - ERROR - Error While Generating ******ITINERARY***** : Completions.create() got an unexpected keyword argument 'GROQ_API_KEY'
+2025-07-14 00:39:44,692 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:39:44,692 - INFO - City Set Successfully
+2025-07-14 00:39:44,692 - INFO - Interests Set Successfully
+2025-07-14 00:39:44,692 - INFO - Generating Itinerary for Delhi and for interests : ['Red Fort', 'Lotus Temple']
+2025-07-14 00:39:54,280 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:39:54,281 - INFO - City Set Successfully
+2025-07-14 00:39:54,281 - INFO - Interests Set Successfully
+2025-07-14 00:39:54,281 - INFO - Generating Itinerary for Delhi and for interests : ['Red Fort', 'Lotus Temple']
+2025-07-14 00:39:55,761 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:39:55,776 - INFO - Itinerary Generated Successfully
+2025-07-14 00:40:11,057 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:40:11,072 - INFO - Itinerary Generated Successfully
+2025-07-14 00:40:16,791 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:40:16,791 - INFO - City Set Successfully
+2025-07-14 00:40:16,791 - INFO - Interests Set Successfully
+2025-07-14 00:40:16,791 - INFO - Generating Itinerary for Kolkata and for interests : ['Eco Park', 'Nicco Park', 'Eden Garden']
+2025-07-14 00:40:18,279 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:40:18,281 - INFO - Itinerary Generated Successfully
+2025-07-14 00:42:09,481 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:42:09,481 - INFO - City Set Successfully
+2025-07-14 00:42:09,481 - INFO - Interests Set Successfully
+2025-07-14 00:42:09,482 - INFO - Generating Itinerary for Kolkata and for interests : ['Eco Park', 'Nicco Park', 'Eden Garden', 'Diamond Harbour']
+2025-07-14 00:42:10,918 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:42:10,919 - INFO - Itinerary Generated Successfully
+2025-07-14 00:48:50,636 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:48:50,636 - INFO - City Set Successfully
+2025-07-14 00:48:50,636 - INFO - Interests Set Successfully
+2025-07-14 00:48:50,636 - INFO - Generating Itinerary for Kolkata and for interests : ['Bengium Chocolate Factory']
+2025-07-14 00:48:52,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:48:52,065 - INFO - Itinerary Generated Successfully
+2025-07-14 00:49:15,295 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:49:15,295 - INFO - City Set Successfully
+2025-07-14 00:49:15,295 - INFO - Interests Set Successfully
+2025-07-14 00:49:15,295 - INFO - Generating Itinerary for Kolkata and for interests : ['Bengalore']
+2025-07-14 00:49:16,512 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:49:16,513 - INFO - Itinerary Generated Successfully
+2025-07-14 00:57:53,855 - INFO - Initialized Travel Planner Instance
+2025-07-14 00:57:53,856 - INFO - City Set Successfully
+2025-07-14 00:57:53,856 - INFO - Interests Set Successfully
+2025-07-14 00:57:53,856 - INFO - Generating Itinerary for Kolkata and for interests : ['Nicco Park', 'Eco Park', 'Krishnanagar']
+2025-07-14 00:57:55,197 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 00:57:55,200 - INFO - Itinerary Generated Successfully
+2025-07-14 01:00:18,675 - INFO - Initialized Travel Planner Instance
+2025-07-14 01:00:18,675 - INFO - City Set Successfully
+2025-07-14 01:00:18,675 - INFO - Interests Set Successfully
+2025-07-14 01:00:18,675 - INFO - Generating Itinerary for Kahsmir and for interests : ['Snow']
+2025-07-14 01:00:20,055 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 01:00:20,056 - INFO - Itinerary Generated Successfully
+2025-07-14 01:00:49,617 - INFO - Initialized Travel Planner Instance
+2025-07-14 01:00:49,617 - INFO - City Set Successfully
+2025-07-14 01:00:49,617 - INFO - Interests Set Successfully
+2025-07-14 01:00:49,617 - INFO - Generating Itinerary for Kahsmir and for interests : ['Fire']
+2025-07-14 01:00:51,561 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-14 01:00:51,562 - INFO - Itinerary Generated Successfully
