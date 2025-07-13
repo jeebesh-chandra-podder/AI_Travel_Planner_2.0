@@ -3,7 +3,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from src.config.config import GROQ_API_KEY
 
 llm = ChatGroq(
-    GROQ_API_KEY = GROQ_API_KEY,
+    groq_api_key = GROQ_API_KEY,
     model_name = "llama-3.3-70b-versatile",
     temperature = 0.3
 )
@@ -19,6 +19,7 @@ itinerary_prompt = ChatPromptTemplate([
         - Incorporate **local experiences**, popular attractions, food options, and optional activities aligned with the interests.
         - Keep the plan feasible within one day and optimize for minimal backtracking.
         - Use **bullet points** for each time slot or activity for readability.
+        - Provide the tavel time required to travel from source to the destination site and whether it's a feasible choice or not. If not Provide alternatives.
         - Keep descriptions **brief but engaging**, offering local flavor.
 
         Context:
